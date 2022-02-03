@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Soumyadeep0732
 - 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning Convolutional Neural Network
+- 🌱 I’m currently learning Convolutional Neural Networks
 - 💞️ I’m looking to collaborate on Deep Learning Projects
 - 📫 How to reach me gangulisoumyadeep@gmail.com
 
